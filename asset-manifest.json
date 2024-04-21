@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/ejpatuel.github.io/static/css/main.8910fceb.css",
-    "main.js": "/ejpatuel.github.io/static/js/main.718a6a92.js",
-    "static/js/453.94432ed4.chunk.js": "/ejpatuel.github.io/static/js/453.94432ed4.chunk.js",
-    "static/media/fm_2.JPG": "/ejpatuel.github.io/static/media/fm_2.10be83ab409ab5f1d1c1.JPG",
-    "static/media/fm_3.JPG": "/ejpatuel.github.io/static/media/fm_3.cef154da93f70807532a.JPG",
-    "static/media/Hazelmere-Online-Reservations-Customer-Guide.pdf": "/ejpatuel.github.io/static/media/Hazelmere-Online-Reservations-Customer-Guide.c235cddc4628bf43c1f7.pdf",
-    "static/media/nav_3.jpg": "/ejpatuel.github.io/static/media/nav_3.0563bd6b8eddfc5ace5b.jpg",
-    "static/media/nav_4.JPG": "/ejpatuel.github.io/static/media/nav_4.c7fe4715d2b2fe822f23.JPG",
-    "static/media/fm_1.jpg": "/ejpatuel.github.io/static/media/fm_1.f3bd393f6d2eff8a86da.jpg",
-    "static/media/nav_2.JPG": "/ejpatuel.github.io/static/media/nav_2.60b5373822eb70a09e2b.JPG",
-    "static/media/nav_1.jpg": "/ejpatuel.github.io/static/media/nav_1.632a70b0d0b43eb88f94.jpg",
-    "static/media/Sanchez-Regular.ttf": "/ejpatuel.github.io/static/media/Sanchez-Regular.420a6bbe7d53172d7657.ttf",
-    "static/media/Hazelmere-logo.png": "/ejpatuel.github.io/static/media/Hazelmere-logo.dfbcb72f0c991c1e93eb.png",
-    "static/media/logo.svg": "/ejpatuel.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ejpatuel.github.io/index.html",
-    "main.8910fceb.css.map": "/ejpatuel.github.io/static/css/main.8910fceb.css.map",
-    "main.718a6a92.js.map": "/ejpatuel.github.io/static/js/main.718a6a92.js.map",
-    "453.94432ed4.chunk.js.map": "/ejpatuel.github.io/static/js/453.94432ed4.chunk.js.map"
+    "main.css": "/static/css/main.80649037.css",
+    "main.js": "/static/js/main.46798705.js",
+    "static/js/453.94432ed4.chunk.js": "/static/js/453.94432ed4.chunk.js",
+    "static/media/fm_2.JPG": "/static/media/fm_2.10be83ab409ab5f1d1c1.JPG",
+    "static/media/fm_3.JPG": "/static/media/fm_3.cef154da93f70807532a.JPG",
+    "static/media/Hazelmere-Online-Reservations-Customer-Guide.pdf": "/static/media/Hazelmere-Online-Reservations-Customer-Guide.c235cddc4628bf43c1f7.pdf",
+    "static/media/nav_3.jpg": "/static/media/nav_3.0563bd6b8eddfc5ace5b.jpg",
+    "static/media/nav_4.JPG": "/static/media/nav_4.c7fe4715d2b2fe822f23.JPG",
+    "static/media/fm_1.jpg": "/static/media/fm_1.f3bd393f6d2eff8a86da.jpg",
+    "static/media/nav_2.JPG": "/static/media/nav_2.60b5373822eb70a09e2b.JPG",
+    "static/media/nav_1.jpg": "/static/media/nav_1.632a70b0d0b43eb88f94.jpg",
+    "static/media/Sanchez-Regular.ttf": "/static/media/Sanchez-Regular.420a6bbe7d53172d7657.ttf",
+    "static/media/Hazelmere-logo.png": "/static/media/Hazelmere-logo.dfbcb72f0c991c1e93eb.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.80649037.css.map": "/static/css/main.80649037.css.map",
+    "main.46798705.js.map": "/static/js/main.46798705.js.map",
+    "453.94432ed4.chunk.js.map": "/static/js/453.94432ed4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8910fceb.css",
-    "static/js/main.718a6a92.js"
+    "static/css/main.80649037.css",
+    "static/js/main.46798705.js"
   ]
 }
